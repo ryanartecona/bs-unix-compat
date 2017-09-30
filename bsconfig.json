@@ -1,0 +1,5 @@
+{
+  "name": "bs-unix-compat",
+  "sources": ["src"],
+  "allowed-build-kinds": ["js"]
+}

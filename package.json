@@ -1,0 +1,8 @@
+{
+  "name": "bs-unix-compat",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "bs-platform": "git://github.com/bsansouci/bsb-native.git"
+  }
+}
